@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     'home',
     'movies',
     'accounts',
-    'cart'
+    'cart',
+    'petitions',
 ]
 
 # intercepts and manages the request and response processing flow. The listed middleware is provided by 
